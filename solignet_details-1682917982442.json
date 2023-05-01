@@ -1,0 +1,508 @@
+{
+	"items": [
+		{
+			"custitem_sol_public_item_classificatio": "PV Modules",
+			"custitem_ef_badges": "&nbsp;",
+			"custitem_sol_requires_ltl_shipping": true,
+			"custitem_ns_sc_ext_id_hide_invt_msg": false,
+			"ispricevisible_detail": {
+				"bycurrentuserloginstatus": false,
+				"inpersonalizedcatalog": true
+			},
+			"ispurchasable_detail": {
+				"bystockavailability": true,
+				"inpersonalizedcatalog": true
+			},
+			"ispricevisible": false,
+			"maximumquantity": 1000,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"storedetaileddescription": "<p><strong>Sunergy, Bifacial 370W PV Module, MC-4 Compatible Connector, PV Wire 1300mm ~51.2&quot;), 30mm Black Frame with Transparent Black-Mesh Back-Sheet,  120 1/2 Cell Mono, 20A Max Fuse, 1500VDC, 345.5W PTC, 12/30 Warranty, VSUN370-120BMH-1300</strong></p>",
+			"itemimages_detail": {
+				"1.default": {
+					"altimagetext": "",
+					"url": "https://connect.soligent.net/site/img/ItemImages/110-1346_1.default.jpeg"
+				}
+			},
+			"custitem_sol_length": 69.37,
+			"custitem_sol_sca_managedallocation": false,
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$208.57",
+				"onlinecustomerprice": 208.57
+			},
+			"custitem_ns_sc_ext_id_qty_avl_msg": "",
+			"weight": 42.76968,
+			"custitem_ns_sc_ext_id_stock_message": "",
+			"mpn": "VSUN370-120BMH-1300",
+			"custitem_sol_sca_ecom_partners": "CES",
+			"internalid": 65939,
+			"itemoptions_detail": {
+				"fields": [
+					{
+						"internalid": "custcol_sol_sales_instructions",
+						"label": "Sales Instructions",
+						"type": "text"
+					},
+					{
+						"internalid": "custcol_item_weight",
+						"label": "Item Weight",
+						"type": "float"
+					},
+					{
+						"internalid": "custcol_public_item_class",
+						"values": [
+							{
+								"label": ""
+							},
+							{
+								"internalid": "36",
+								"label": "AC Module Accessories"
+							},
+							{
+								"internalid": "1",
+								"label": "Balance of Systems"
+							},
+							{
+								"internalid": "50",
+								"label": "Ballast"
+							},
+							{
+								"internalid": "3",
+								"label": "Battery Accessories"
+							},
+							{
+								"internalid": "4",
+								"label": "Charge Controllers"
+							},
+							{
+								"internalid": "48",
+								"label": "Clamps & Hardware"
+							},
+							{
+								"internalid": "43",
+								"label": "Custom"
+							},
+							{
+								"internalid": "2",
+								"label": "Energy Storage"
+							},
+							{
+								"internalid": "6",
+								"label": "Engineering Services"
+							},
+							{
+								"internalid": "35",
+								"label": "Engineering Services- Custom"
+							},
+							{
+								"internalid": "7",
+								"label": "Fees"
+							},
+							{
+								"internalid": "27",
+								"label": "Fees - Internal"
+							},
+							{
+								"internalid": "28",
+								"label": "Fees - Vendor"
+							},
+							{
+								"internalid": "45",
+								"label": "Flashing"
+							},
+							{
+								"internalid": "25",
+								"label": "Inverter Accessories"
+							},
+							{
+								"internalid": "29",
+								"label": "Inverter Charge Controller"
+							},
+							{
+								"internalid": "8",
+								"label": "Inverter Display Units"
+							},
+							{
+								"internalid": "26",
+								"label": "Inverter Monitoring Equipment"
+							},
+							{
+								"internalid": "42",
+								"label": "Inverter Optimizers"
+							},
+							{
+								"internalid": "9",
+								"label": "Inverter Options"
+							},
+							{
+								"internalid": "23",
+								"label": "Inverter Warranties"
+							},
+							{
+								"internalid": "10",
+								"label": "Inverters"
+							},
+							{
+								"internalid": "47",
+								"label": "Inverters - Storage"
+							},
+							{
+								"internalid": "5",
+								"label": "Leasing - Customer Owned Inventory"
+							},
+							{
+								"internalid": "19",
+								"label": "Leasing - Rebates"
+							},
+							{
+								"internalid": "41",
+								"label": "Microinverters"
+							},
+							{
+								"internalid": "12",
+								"label": "Monitoring Equipment"
+							},
+							{
+								"internalid": "13",
+								"label": "Monitoring Service"
+							},
+							{
+								"internalid": "34",
+								"label": "No Classification"
+							},
+							{
+								"internalid": "38",
+								"label": "Non-revenue item"
+							},
+							{
+								"internalid": "30",
+								"label": "Promo Bundle"
+							},
+							{
+								"internalid": "14",
+								"label": "Pumps"
+							},
+							{
+								"internalid": "15",
+								"label": "PV Modules"
+							},
+							{
+								"internalid": "17",
+								"label": "Racking"
+							},
+							{
+								"internalid": "44",
+								"label": "Rail"
+							},
+							{
+								"internalid": "51",
+								"label": "Rail-less"
+							},
+							{
+								"internalid": "49",
+								"label": "Roof Attachments"
+							},
+							{
+								"internalid": "20",
+								"label": "SolGen PV Kits"
+							},
+							{
+								"internalid": "21",
+								"label": "SolRac Racking Kits"
+							},
+							{
+								"internalid": "37",
+								"label": "SPA"
+							},
+							{
+								"internalid": "33",
+								"label": "Special Offers"
+							},
+							{
+								"internalid": "46",
+								"label": "Storage Accessories"
+							},
+							{
+								"internalid": "52",
+								"label": "Storage Inverters"
+							},
+							{
+								"internalid": "22",
+								"label": "Tools and Supplies"
+							}
+						],
+						"label": "Public Item Classification",
+						"type": "select"
+					},
+					{
+						"internalid": "custcol_spif_total",
+						"label": "SPIF Total",
+						"type": "currency"
+					},
+					{
+						"internalid": "custcol_spif_per_ea",
+						"label": "SPIF Credit (ea)",
+						"type": "currency"
+					},
+					{
+						"internalid": "custcol_sovos_cust_id",
+						"label": "Sovos Customer Id",
+						"type": "text"
+					},
+					{
+						"internalid": "custcol_sovos_gsc",
+						"label": "Sovos GSC",
+						"type": "text"
+					}
+				]
+			},
+			"outofstockmessage": "",
+			"custitem_sol_sca_warranty_desc": "",
+			"custitem_ns_ib_badges": "&nbsp;",
+			"relateditemsdescription": "",
+			"vendorname": "VSUN370-120BMH-1300",
+			"custitem_ns_ib_show_badges": false,
+			"isinstock": true,
+			"commercecategory": {
+				"primarypath": [
+					{
+						"urls": [
+							"/pv"
+						],
+						"url_fragment_aliases": [],
+						"name": "Solar Panels",
+						"id": 1
+					}
+				],
+				"categories": [
+					{
+						"urls": [
+							"/pv"
+						],
+						"url_fragment_aliases": [],
+						"name": "Solar Panels",
+						"id": 1
+					}
+				]
+			},
+			"metataghtml": "",
+			"quantityavailable_detail": {
+				"quantityavailable": 29570.0,
+				"locations": [
+					{
+						"internalid": 204,
+						"quantityavailable": 756.0
+					},
+					{
+						"internalid": 180,
+						"quantityavailable": 24.0
+					},
+					{
+						"internalid": 226,
+						"quantityavailable": 11592.0
+					},
+					{
+						"internalid": 31,
+						"quantityavailable": 958.0
+					},
+					{
+						"internalid": 203,
+						"quantityavailable": 8964.0
+					},
+					{
+						"internalid": 187,
+						"quantityavailable": 642.0
+					},
+					{
+						"internalid": 123,
+						"quantityavailable": 31.0
+					},
+					{
+						"internalid": 220,
+						"quantityavailable": 2809.0
+					},
+					{
+						"internalid": 235,
+						"quantityavailable": 582.0
+					},
+					{
+						"internalid": 244,
+						"quantityavailable": 260.0
+					},
+					{
+						"internalid": 251,
+						"quantityavailable": 180.0
+					},
+					{
+						"internalid": 263,
+						"quantityavailable": 2772.0
+					}
+				]
+			},
+			"weightunit": "lb",
+			"custitem_sol_sca_document_description": "<ul><li><a target=\"_blank\" href=\"/site/Item Documents/4430_110-1346.pdf\">Data Sheet (Created 2/16/2023)</a></li><li><a target=\"_blank\" href=\"/site/Item Documents/4672_110-1346 Warranty.pdf\">Warranty (Created 12/29/2022)</a></li></ul><br /><br /><p><strong>Disclaimer: </strong>While we strive to keep our item documents updated, item documents may have been updated by our manufacturers. Please note the date the document was created - for the most up-to-date item details, please refer to the manufacturer's website.</p>",
+			"manufacturer": "VSUN SOLAR USA INC",
+			"itemid": "110-1346",
+			"custitem_ns_sc_ext_id_hide_low_qty_msg": false,
+			"custitem_sol_height": 1.18,
+			"custitem_sol_width": 41.26,
+			"isbackorderable": true,
+			"custitem_ns_sc_ext_id_hide_qty_avl": false,
+			"custitem_sol_is_managed_allocation": false,
+			"custitem_ns_sc_ext_id_low_stock_msg": "",
+			"custitem_sol_item_ebos": false,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"itemtype": "InvtPart",
+			"quantityavailable": 29570.0,
+			"displayname": "",
+			"storedisplayname2": "Sunergy VSUN370-120BMH 370W Black on Black 120 Half-Cell Mono Solar Panel",
+			"custitem_ns_sc_ext_id_bo_msg": "",
+			"isdropshipitem": false,
+			"isspecialorderitem": false,
+			"pagetitle": "Sunergy VSUN370-120BMH 370W Black on Black 120 Half-Cell Mono Solar Panel",
+			"urlcomponent": "Sunergy-VSUN370-120BMH-370W-Black-on-Black-120-Half-Cell-Mono-Solar-Panel"
+		}
+	],
+	"facets": [
+		{
+			"id": "category",
+			"values": []
+		},
+		{
+			"id": "commercecategoryname",
+			"values": [
+				{
+					"url": "Solar Panels"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_item_attr_batteryvolt",
+			"url": "batteryvoltage",
+			"values": [],
+			"ranges": []
+		},
+		{
+			"id": "custitem_sol_item_attr_productline",
+			"url": "product_line",
+			"values": []
+		},
+		{
+			"id": "custitem_sol_item_attr_pvbacksheet",
+			"url": "pv_backsheet",
+			"values": [
+				{
+					"url": "Black",
+					"label": "Black"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_item_attr_pvframecolor",
+			"url": "pv_frame_color",
+			"values": [
+				{
+					"url": "Black",
+					"label": "Black"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_item_attr_roofcomp",
+			"url": "roof_compatibility",
+			"values": []
+		},
+		{
+			"id": "custitem_sol_item_attr_wiringgauge",
+			"url": "wiring_gauge",
+			"values": [],
+			"ranges": []
+		},
+		{
+			"id": "custitem_sol_item_colorfinish",
+			"url": "color",
+			"values": []
+		},
+		{
+			"id": "custitem_sol_manufacturer_for_web",
+			"url": "Manufacturer",
+			"values": [
+				{
+					"url": "Sunergy",
+					"label": "Sunergy"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_product_type",
+			"url": "product_type",
+			"values": [
+				{
+					"url": "Solar-Panel",
+					"label": "Solar Panel"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_pv_cellcount",
+			"url": "pv_cell_count",
+			"values": [
+				{
+					"url": "120-Half~Cell",
+					"label": "120 Half-Cell"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_sca_ecom_partners",
+			"url": "partners",
+			"values": [
+				{
+					"url": "CES",
+					"label": "CES"
+				}
+			]
+		},
+		{
+			"id": "custitem_sol_wattage",
+			"url": "wattage",
+			"values": [
+				{
+					"url": "370",
+					"label": "370"
+				}
+			],
+			"min": 370.0,
+			"max": 370.0,
+			"ranges": []
+		},
+		{
+			"id": "custitem_sol_webstore_availability",
+			"url": "availability",
+			"values": [
+				{
+					"url": "Typically-In-Stock",
+					"label": "Typically In Stock"
+				}
+			]
+		}
+	],
+	"corrections": [],
+	"locale": {
+		"country": "US",
+		"language": "en",
+		"currency": "USD",
+		"region": 3
+	},
+	"backendType": "ES",
+	"backend": "E",
+	"volatility": "unique",
+	"code": 200,
+	"warnings": {
+		"processeduri": "https://connect.soligent.net/api/items?include=facets&country=US&pricelevel=4&c=3510556&sitepath=&fieldset=details&use_pcv=F&language=en&currency=USD&n=2&url=Sunergy-VSUN370-120BMH-370W-Black-on-Black-120-Half-Cell-Mono-Solar-Panel",
+		"ignoredparams": [
+			"sitepath"
+		]
+	}
+}
